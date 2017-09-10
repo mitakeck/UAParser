@@ -1,1 +1,0 @@
-hoge run main.go
